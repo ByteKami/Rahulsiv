@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahulsiv
-- 👀 I’m interested in gaming, art, animation
+- tech n art
 - 📫 How to reach me rahulsivaji@outlook.com
 
 <!---
