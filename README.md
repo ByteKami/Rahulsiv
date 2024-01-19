@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rahulsiv
-- tech n art
-- 📫 How to reach me rahulsivaji@outlook.com
 
 <!---
 Rahulsiv/Rahulsiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
